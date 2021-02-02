@@ -1,0 +1,187 @@
+#googleSearch {
+background-color: ;
+}
+#luckySearch { 
+
+#about {
+  display: inline-block;
+  padding-left: 15px; 
+  color: #000;
+  opacity: .75;
+  font-size: 13px; 
+  font-family: arial, sans-serif; 
+  text-decoration-line: none;
+  text-decoration-style: solid;  
+}
+#about:hover {
+  text-decoration: underline; 
+}
+#store {
+  display: inline-block;
+  padding-left: 15px; 
+  color: #000; 
+  opacity: .75; 
+  font-size: 13px; 
+  font-family: arial, sans-serif; 
+  text-decoration-line: none;
+  text-decoration-style: solid; 
+}
+#store:hover{
+  text-decoration: underline; 
+}
+#gmail {
+  color: rgba(0,0,0,0.87)
+    display: inline-block; 
+  font-family: arial,sans-serif; 
+  font-size: 13px; 
+  line-height: 24px; 
+  text-align: right; 
+  text-decoration-line: none; 
+  text-decoration-style: solid; 
+  vertical-align: middle; 
+  white-space: nowrap; 
+  padding-left: 600px;
+}
+#gmail:hover{
+  text-decoration: underline; 
+}
+#images {
+  color: rgba(0,0,0,0.87)
+    display: inline-block; 
+  font-family: arial, sans-serif; 
+  font-size: 13px; 
+  line-height: 24px; 
+  text-align: right; 
+  text-decoration-line: none; 
+  text-decoration-style: solid; 
+  vertical-align: middle;
+  white-space: nowrap; 
+  padding-left: 15px; 
+}
+#images:hover {
+  text-decoration-line: underline; 
+}
+#apps {
+   color: rgba(0,0,0,0.87)
+    display: inline-block; 
+  font-family: arial,sans-serif; 
+  font-size: 13px; 
+  line-height: 24px; 
+  text-align: right; 
+  text-decoration-line: none; 
+  text-decoration-style: solid; 
+  vertical-align: middle; 
+  white-space: nowrap;
+  padding-left: 15px; 
+}
+#apps:hover {
+  text-decoration-line: underline; 
+}
+#signIn {
+  background-attachment: scroll; 
+  background-clip: border-box; 
+  background-image: -moz-linear-gradient (rgb(67,135,253) rgb(70, 131, 234)); 
+  background-origin: padding-box; 
+  text-decoration-style: solid; 
+  text-decoration-line: none; 
+  white-space: nowrap; 
+  text-align: left; 
+  font-size: 13px;
+  padding-left: 15px; 
+  
+}
+#signIn:hover {
+  text-decoration-style: underline; 
+}
+#advertising {
+  color: rgb(112, 117, 122);
+  display: inline-block; 
+  font-family: arial, sans-serif; 
+  font-size: 14px; 
+  line-height: 40px; 
+  padding-left: 27px; 
+  text-align: left; 
+  text-decoration-line: none; 
+  text-decoration-style: solid; 
+  white-space: nowrap; 
+ 
+}
+#advertising:hover {
+  text-decoration-line: underline; 
+}
+
+#business {
+  color: rgb(112, 117, 122);
+  display: inline-block; 
+  font-family: arial, sans-serif; 
+  font-size: 14px; 
+  line-height: 40px; 
+  padding-left: 27px; 
+  text-align: left; 
+  text-decoration-line: none; 
+  text-decoration-style: solid; 
+  white-space: nowrap; 
+}
+#business:hover {
+  text-decoration-line: underline; 
+}
+#howSearchWorks {
+  color: rgb(112, 117, 122);
+  display: inline-block; 
+  font-family: arial, sans-serif; 
+  font-size: 14px; 
+  line-height: 40px; 
+  padding-left: 27px; 
+  text-align: left; 
+  text-decoration-line: none; 
+  text-decoration-style: solid; 
+  white-space: nowrap; 
+}
+#howSearchWorks:hover {
+  text-decoration-line: underline; 
+}
+#privacy {
+  color: rgb(112, 117, 122);
+  display: inline-block; 
+  font-family: arial, sans-serif; 
+  font-size: 14px; 
+  line-height: 40px; 
+  padding-left: 27px; 
+  text-align: left; 
+  text-decoration-line: none; 
+  text-decoration-style: solid; 
+  white-space: nowrap; 
+}
+#privacy:hover {
+  text-decoration-line: underline; 
+}
+#terms {
+  color: rgb(112, 117, 122);
+  display: inline-block; 
+  font-family: arial, sans-serif; 
+  font-size: 14px; 
+  line-height: 40px; 
+  padding-left: 27px; 
+  text-align: left; 
+  text-decoration-line: none; 
+  text-decoration-style: solid; 
+  white-space: nowrap; 
+}
+#terms:hover {
+  text-decoration-line: underline; 
+}
+#settings {
+  color: rgb(112, 117, 122);
+  display: inline-block; 
+  font-family: arial, sans-serif; 
+  font-size: 14px; 
+  line-height: 40px; 
+  padding-left: 27px; 
+  text-align: left; 
+  text-decoration-line: none; 
+  text-decoration-style: solid; 
+  white-space: nowrap; 
+}
+#settings:hover {
+  text-decoration-line: underline; 
+}
