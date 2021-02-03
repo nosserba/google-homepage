@@ -1,14 +1,16 @@
 <!DOCTYPE html> 
 <html> 
-  <body> 
-   <div> 
-     <a id="about" href="https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header">About</a> 
-     <a id="store" href="https://store.google.com/US/?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US">Store</a> 
-     <a id="gmail" href="https://www.google.com/gmail/about/">Gmail</a>
-     <a id="images" href="https://www.google.com/imghp?hl=en&tab=wi&ogbl">Images</a>
-     <a id="apps" href="">Apps</a> 
-     <a id="sign.in" href="https://accounts.google.com/signin/v2/identifier?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2F&ec=GAZAAQ&flowName=GlifWebSignIn&flowEntry=ServiceLogin">Sign in</a> 
-    </div> 
+<header>
+   <ul> 
+     <li><a id="about" href="https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header">About</a></li>
+     <li><a id="store" href="https://store.google.com/US/?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US">Store</a></li> 
+     <li><a id="gmail" href="https://www.google.com/gmail/about/">Gmail</a>
+     <a id="images" href="https://www.google.com/imghp?hl=en&tab=wi&ogbl">Images</a></li>
+     <li><a id="apps" href="">Apps</a></li>
+     <li><a id="sign.in" href="https://accounts.google.com/signin/v2/identifier?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2F&ec=GAZAAQ&flowName=GlifWebSignIn&flowEntry=ServiceLogin">Sign in</a></li>
+    </ul> 
+    </header>
+    <body>
    <div> 
     <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" alt="Google logo"
        <form>   
