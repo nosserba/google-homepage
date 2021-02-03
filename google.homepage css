@@ -1,3 +1,4 @@
+
 #googleSearch {
 background-color: ;
 }
@@ -93,6 +94,7 @@ background-color: ;
 #signIn:hover {
   text-decoration-style: underline; 
 }
+
 #advertising {
   color: rgb(112, 117, 122);
   display: inline-block; 
