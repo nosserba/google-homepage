@@ -2,8 +2,6 @@
 #googleSearch {
 background-color: ;
 }
-#luckySearch { 
-
 #about {
   display: inline-block;
   padding-left: 15px; 
