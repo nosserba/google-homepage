@@ -1,6 +1,7 @@
 
-#googleSearch {
-background-color: ;
+
+li {
+    list-style-type: none; 
 }
 #about {
   display: inline-block;
@@ -11,6 +12,7 @@ background-color: ;
   font-family: arial, sans-serif; 
   text-decoration-line: none;
   text-decoration-style: solid;  
+  list-style-type: none; 
 }
 #about:hover {
   text-decoration: underline; 
