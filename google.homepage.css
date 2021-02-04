@@ -33,7 +33,7 @@ li {
 }
 #gmail {
   color: rgba(0,0,0,0.87)
-    display: inline-block; 
+  display: inline-block; 
   font-family: arial,sans-serif; 
   font-size: 13px; 
   line-height: 24px; 
@@ -60,6 +60,7 @@ li {
   white-space: nowrap; 
   padding-left: 15px; 
 }
+
 #images:hover {
   text-decoration-line: underline; 
 }
@@ -76,6 +77,7 @@ li {
   white-space: nowrap;
   padding-left: 15px; 
 }
+
 #apps:hover {
   text-decoration-line: underline; 
 }
@@ -221,12 +223,8 @@ li {
 }
 
 #googleSearch {
-  
-  margin-left: auto; 
-  margin-right: auto;
+ display: inline-block
 }
 #luckySearch {
-  
-  margin-left: auto; 
-  margin-right: auto; 
+ display: inline-block
 }
